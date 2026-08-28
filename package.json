@@ -4,6 +4,7 @@
   "private": true,
   "license": "UNLICENSED",
   "version": "0.1.0",
+  "packageManager": "pnpm@11.19.0",
   "main": "expo-router/entry",
   "dependencies": {
     "expo": "~54.0.37",
